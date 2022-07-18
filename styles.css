@@ -1,0 +1,19 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.card-img-top {
+  height: 12rem;
+  object-fit: cover;
+}
+
+.card .resultados{
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+}
+
